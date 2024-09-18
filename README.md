@@ -1,8 +1,7 @@
 <div align="center">
   <br />
   
-      <img src="https://github.com/adrianhajdin/jsm_podcastr/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
-    </a>
+    
   <br />
 
   <div>
@@ -58,14 +57,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
 
 
-
-
-## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>app/globals.css</code></summary>
